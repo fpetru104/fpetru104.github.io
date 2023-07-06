@@ -8,11 +8,11 @@ share-img:
 tags: [návod, Threads, Meta, Twitter, VPN, technologie, sociální sítě]
 ---
 
-Nový konkurent Twitteru Threads od Meta Platforms Marka Zuckerberga je aktuálně nedostupný pro zařízení lokalizované v Evropské unii. Po vyhledání v Google Play storu se ani nezobrazí a pokud získáte přímý odkaz, stáhnout se vám aplikaci nepodaří. Pro Apple zařízení existuje metoda, kdy si založíte americké Apple ID a Threads si klasicky stáhnete z App Storu. 
+Nový konkurent Twitteru Threads od Meta Platforms Marka Zuckerberga je aktuálně nedostupný pro zařízení lokalizovaná v Evropské unii kvůli přísnějším pravidlům ochrany soukromí. Po vyhledání aplikace v Google Play storu se ani nezobrazí a pokud získáte přímý odkaz, stáhnout se vám nepodaří pro nedostupnost v dané lokalitě. Pro Apple zařízení existuje metoda, kdy si založíte americké Apple ID a Threads si klasicky stáhnete z App Storu. 
 
-U zařízení s operačním systémem od Googlu tato metoda nefunguje, protože pro Play Store je stěžejní, kde se zrovna vaše zařízení nachází na základě IP adresy. Funguje metoda stáhnutí apk souboru, kterým si aplikaci nainstalujete mimo obchod Play, ale riskujete tím možné bezpečnostní hrozby pro telefon. Útočníci se bezesporu budou snažit situace využít a ke stažení nahrávat podvržené soubory se škodlivým softwarem. 
+U zařízení s Androidem metoda se změnou lokace účtu nefunguje, protože pro Play Store je stěžejní, kde se zrovna vaše zařízení nachází na základě IP adresy. Funguje sice metoda instalace skrze apk soubor, kterým celou lokální blokaci jednoduše obejdete, ale riskujete tím možné bezpečnostní hrozby pro telefon. Útočníci se bezesporu budou snažit situace využít a ke stažení nahrávat podvržené soubory se škodlivým softwarem. 
 
-Proto je bezpečnější Threads instalaci Threads provést skrze VPN a nechat si Play Store myslet, že se nacházíte třeba v Kanadě, kde nová textová platforma již funguje. Výhodou je, že jakmile budete mít nainstalováno, VPN aplikaci můžete odinstalovat.
+Proto je bezpečnější instalaci Threads provést skrze VPN a nechat si Play Store myslet, že se nacházíte třeba v Kanadě, kde nová textová platforma již funguje. Výhodou je, že jakmile budete mít nainstalováno, VPN aplikaci můžete odinstalovat.
 
 <h1>Jak tedy na to?</h1>
 
