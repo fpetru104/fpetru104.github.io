@@ -16,11 +16,11 @@ Proto je bezpečnější instalaci Threads provést skrze VPN a nechat si Play S
 
 <h1>Jak tedy na to?</h1>
 
-<b>1) Stáhnout si aplikaci TunnelBear z Google Play storu (<a href>https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en_US</a>).</b> Je zadarmo, dá se přes ní připojit na západní servery a s free limitem 2 GB si v pořádku vystačíte.
+<b>1) Stáhnout si aplikaci TunnelBear z Google Play storu (<a href="https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en_US">https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en_US</a>).</b> Je zadarmo, dá se přes ní připojit na západní servery a s free limitem 2 GB si v pořádku vystačíte.
 
 <b>2) Po spuštění aplikace zvolte napojení na kanadský server </b> Může to být i jiný, ale Kanadu mám osobně vyzkoušenou. V telefonu musíte mít povolenou VPN, vyskočí vám dialogové okno.
    
-<b>3) Poté, co se ujistíte, že jste připojení na VPN server, klikněte sem: <a href>https://play.google.com/store/apps/details?id=com.instagram.barcelona</a>.</b> Odkaz vás zavede na Play Store, kde by už mělo být aktivní tlačítko stažení.
+<b>3) Poté, co se ujistíte, že jste připojení na VPN server, klikněte sem: <a href="https://play.google.com/store/apps/details?id=com.instagram.barcelona">https://play.google.com/store/apps/details?id=com.instagram.barcelona</a>.</b> Odkaz vás zavede na Play Store, kde by už mělo být aktivní tlačítko stažení.
    
 <b>4) Aplikace by se měla dát stáhnout a nainstalovat.</b>
    
