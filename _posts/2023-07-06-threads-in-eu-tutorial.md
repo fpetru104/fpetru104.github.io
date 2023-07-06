@@ -24,4 +24,4 @@ Proto je bezpečnější instalaci Threads provést skrze VPN a nechat si Play S
    
 <b>4) Aplikace by se měla dát stáhnout a nainstalovat.</b>
    
-<b>5) Aplikaci spusťte, potvrďte registraci přes Instagram a používejte.</b> Na další pohyb po síti už VPN nebudete potřebovat. Pravděpodobně ji ale využijete při aktualizaci celé aplikace.
+<b>5) Aplikaci spusťte, potvrďte registraci přes Instagram a používejte.</b> Na další pohyb po síti už VPN nebudete potřebovat. Pravděpodobně ji ale využijete při aktualizaci celé aplikace. Zatím jsem nezjistil, jestli si server obchodu Play případnou aktualizaci natáhne i když už bude komunikovat s českou IP adresou.
