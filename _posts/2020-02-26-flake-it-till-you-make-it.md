@@ -13,6 +13,6 @@ Nový konkurent Twitteru Threads od Meta Platforms Marka Zuckerberga je aktuáln
 Jak tedy na to?
 <b>1) Stáhnout si aplikaci TunnelBear z Google Play storu (https://play.google.com/store/apps/details?id=com.tunnelbear.android&hl=en_US). Je zadarmo, dá se přes ní připojit na západní servery a s free limitem 2 GB si v pořádku vystačíte.
 2) Po spuštění aplikace zvolte napojení na kanadský server (může to být i jiný, ale Kanadu mám osobně vyzkoušenou). V telefonu musíte mít povolenou VPN, vyskočí vám dialogové okno.
-3) Poté, co se ujistíte, že jste připojení na VPN server, vyhledejte ve vyhledávači výraz „Threads download“ a klikněte na odkaz, který vede do Google Play Storu.
+3) Poté, co se ujistíte, že jste připojení na VPN server, klikněte sem: https://play.google.com/store/apps/details?id=com.instagram.barcelona. Odkaz vás zavede na Play Store, kde by už mělo být aktivní tlačítko stažení.
 4) Aplikace by se měla dát stáhnout a nainstalovat.
 5) Aplikaci spusťte, potvrďte registraci přes Instagram a používejte. Na další pohyb po síti už VPN nebudete potřebovat. Pravděpodobně ji ale využijete při aktualizaci celé aplikace. </b>
