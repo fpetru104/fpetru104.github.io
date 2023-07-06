@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jak zpřístupnit Threads od Meta Platforms v Evropské unii?
+title: Jak zpřístupnit Threads v Evropské unii?
 subtitle: Android metoda přes VPN a Google Play Store
 cover-img: 
 thumbnail-img: 
